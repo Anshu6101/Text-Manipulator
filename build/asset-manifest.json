@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Manipulator/static/css/main.f855e6bc.css",
+    "main.js": "/Text-Manipulator/static/js/main.c4d61de4.js",
+    "index.html": "/Text-Manipulator/index.html",
+    "main.f855e6bc.css.map": "/Text-Manipulator/static/css/main.f855e6bc.css.map",
+    "main.c4d61de4.js.map": "/Text-Manipulator/static/js/main.c4d61de4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c4d61de4.js"
+  ]
+}
